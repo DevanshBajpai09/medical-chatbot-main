@@ -11,7 +11,7 @@ huggingface-hub
 sentence-transformers
 faiss-cpu
 python-dotenv
-scikit-learn
+scikit-learn==1.2.2
 transformers
 
 
