@@ -1,7 +1,7 @@
 streamlit==1.32.0
 numpy==1.26.0
 pickle-mixin==1.0.2
-streamlit-extras==0.3.0
+streamlit-extras==0.6.0
 langchain==0.1.5
 langchain-core==0.1.16
 langchain-community==0.0.19
