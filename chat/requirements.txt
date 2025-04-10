@@ -1,3 +1,4 @@
+
 streamlit
 numpy
 pickle-mixin
@@ -12,3 +13,5 @@ faiss-cpu
 python-dotenv
 scikit-learn
 transformers
+
+
